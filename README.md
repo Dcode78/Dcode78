@@ -10,8 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java and python languages ...
 - 👯 I’m looking to master skills such as Selenium framework development in python and java, Postman and RestAssured, pytest, JUnit, Appium, Cypress, CI/CD and cloud.
 - 🤔 If anyone is interested, you are most welcome to join me in my quest..
-- 📫 How to reach me: ... https://www.linkedin.com/in/duduwageaqal/
-- 😄 Pronouns: ... (He/Him)
 
   
 - #### “The more you know, the more you know you don't know.” ― Aristotle 
